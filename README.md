@@ -81,7 +81,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
-<h2 align="center">![Alt text](image.png) Where to find me ![Alt text](image-1.png)</h2>
+<h2 align="center">🐍 Where to find me 🐍</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
