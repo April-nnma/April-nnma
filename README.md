@@ -78,6 +78,7 @@
   </a>
 </div>
 <br>
+
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
