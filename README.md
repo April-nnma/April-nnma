@@ -66,7 +66,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div>
   <!-- <a href="#" title="April-nnma">
     <img align="center" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
   </a> -->
