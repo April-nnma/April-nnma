@@ -68,7 +68,7 @@
 <br>
 <div align=center>
  <a href="#" title="April-nnma">
-    <img align="left" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
+    <img align="left" width="315" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
   </a>
    <a href="#" title="April-nnma">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
