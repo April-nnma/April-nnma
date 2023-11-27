@@ -67,14 +67,15 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <!-- <a href="#" title="April-nnma">
-    <img align="center" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
-  </a> -->
    <a href="#" title="April-nnma">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   <a href="#" title="April-nnma">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
+  <br>
+  <a href="#" title="April-nnma">
+      <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
   </a>
 </div>
 <br>
