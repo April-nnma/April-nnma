@@ -1,5 +1,11 @@
+<!-- Trungquandev -->
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -46,10 +52,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="April-nnma">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilnnma&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="Trungquandev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="April-nnma">
+  <a href="#" title="Trungquandev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -79,7 +85,7 @@
   </a>
 </div>
 
-<!-- <br>
+<br>
 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
@@ -88,6 +94,9 @@
     <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
   </a>
 </p>
+<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
+<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
+<p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
@@ -98,9 +107,9 @@
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a>
 
-<br> -->
-<!-- <h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a> -->
+</a>
