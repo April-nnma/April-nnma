@@ -77,18 +77,12 @@
   <a href="#" title="April-nnma">
     <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
   </a>
-    <a href="#" title="April-nnma">
-    <img align="center" width="100%" src="  <a href="#" title="April-nnma">
-    <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
-  </a>" />
-  </a>
+    <!-- <a href="#" title="April-nnma">
+    <img align="center" width="100%" src="" />
+  </a> -->
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=April-nnma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
@@ -99,11 +93,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=April-nnma&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-[![](https://visitcount.itsvg.in/api?id=April-nnma&icon=0&color=0)](https://visitcount.itsvg.in)
