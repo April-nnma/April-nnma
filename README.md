@@ -81,7 +81,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">![Alt text](image.png) Where to find me ![Alt text](image-1.png)</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -91,6 +91,9 @@
   <a href="https://www.instagram.com/mint.nah22" target="blank">
     <img src="./svg/icons8-instagram-100.png" alt="#" />
   </a>
+  <a href="https://www.youtube.com/channel/UCq6Pi5xqGarTSJG34_TpiaQ" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/115362/youtube-squared" alt="#" />
+  </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/-x2V8Q63DerT/tiktok" alt="#" />
   </a>
@@ -98,7 +101,6 @@
     <img src="https://img.icons8.com/bubbles/100/116712/spotify" alt="#" />
   </a>
 </div>
----
 
 <div align="center">
   <a href="https://visitcount.itsvg.in" title="April-nnma">
