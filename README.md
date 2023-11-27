@@ -79,10 +79,8 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 <br>
+
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -93,7 +91,14 @@
   <a href="https://www.instagram.com/mint.nah22" target="blank">
     <img src="./svg/icons8-instagram-100.png" alt="#" />
   </a>
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/-x2V8Q63DerT/tiktok" alt="#" />
+  </a>
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/116712/spotify" alt="#" />
+  </a>
 </div>
+---
 
 <div align="center">
   <a href="https://visitcount.itsvg.in" title="April-nnma">
