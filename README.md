@@ -75,17 +75,28 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   <a href="#" title="April-nnma">
-    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
+    <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
+  </a>
+    <a href="#" title="April-nnma">
+    <img align="center" width="100%" src="  <a href="#" title="April-nnma">
+    <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
+  </a>" />
   </a>
 </div>
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=April-nnma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=April-nnma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
