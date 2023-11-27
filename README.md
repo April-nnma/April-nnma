@@ -39,7 +39,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=graphql&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socketdotio&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
