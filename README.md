@@ -55,12 +55,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<!-- <br>
 <div align=center>
   <a href="#" title="April-nnma">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -68,4 +74,12 @@
   <a href="#" title="April-nnma">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=April-nnma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=April-nnma&icon=0&color=0)](https://visitcount.itsvg.in)
