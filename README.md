@@ -24,7 +24,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2A275C" alt="Yarn logo" title="Yarn" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=2E51A2" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
@@ -36,14 +40,17 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Socketdotio-282C34?logo=graphql&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=graphql&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
 
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
