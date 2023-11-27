@@ -62,13 +62,13 @@
 <span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;
 <br>
----
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
- <a href="#" title="April-nnma">
-    <img align="left" width="315" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
+  <a href="#" title="April-nnma">
+    <img align="left" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
   </a>
    <a href="#" title="April-nnma">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
@@ -77,7 +77,6 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </div>
----
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
