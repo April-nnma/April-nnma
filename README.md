@@ -1,6 +1,5 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="#" />
+  <img src="./svg/aprilnnma.svg" width="1200" alt="#" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -52,12 +51,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
-
-<!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp; -->
-<!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp; -->
-
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
