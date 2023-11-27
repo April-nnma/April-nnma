@@ -73,10 +73,6 @@
   <a href="#" title="April-nnma">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
-  <br>
-  <a href="#" title="April-nnma">
-      <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=April-nnma&theme=react&hide_border=false" />
-  </a>
 </div>
 <br>
 
@@ -85,6 +81,19 @@
 ![](https://github-profile-trophy.vercel.app/?username=April-nnma&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/mintnah.April" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/108643/facebook" alt="#" />
+  </a>
+  <a href="https://www.instagram.com/mint.nah22" target="blank">
+    <img src="./svg/icons8-instagram-100.png" alt="#" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in" title="April-nnma">
