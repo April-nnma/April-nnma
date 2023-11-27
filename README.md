@@ -43,8 +43,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C#-282C34?logo=csharp&logoColor=512BD4" alt="Csharp logo" title="C#" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Xamarin-282C34?logo=xamarin&logoColor=3498DB" alt="Xamarin logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
