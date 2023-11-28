@@ -101,13 +101,6 @@
     <img src="https://img.icons8.com/bubbles/100/116712/spotify" alt="#" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in" title="April-nnma">
-    <img src="https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1" />
-  </a>
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
