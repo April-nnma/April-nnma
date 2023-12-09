@@ -102,7 +102,7 @@
   </a>
 </div>
 <br>
-<a href="https://visitcount.itsvg.in">
+<a  align="center" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1" alt="Visit Count">
 </a>
 
