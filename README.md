@@ -68,10 +68,10 @@
 <br>
 <div align=center>
    <a href="#" title="April-nnma">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=true" />
   </a>
   <a href="#" title="April-nnma">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April-nnma&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </a>
 </div>
 <br>
@@ -101,7 +101,10 @@
     <img src="https://img.icons8.com/bubbles/100/116712/spotify" alt="#" />
   </a>
 </div>
-<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.yml" alt="Snake animation" /> 
+---
+
+[![](https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
