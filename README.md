@@ -97,10 +97,11 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/-x2V8Q63DerT/tiktok" alt="#" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://open.spotify.com/user/317xpghcfyp4s6lyr7rj2pd4fqgu?si=OlK1pgxGQceimssshKiJbw&nd=1&dlsi=454dbc99c5924dce" target="blank">
     <img src="https://img.icons8.com/bubbles/100/116712/spotify" alt="#" />
   </a>
 </div>
+<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
