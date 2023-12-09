@@ -101,9 +101,10 @@
     <img src="https://img.icons8.com/bubbles/100/116712/spotify" alt="#" />
   </a>
 </div>
----
-
-[![](https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1)](https://visitcount.itsvg.in)
+<br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1" alt="Visit Count">
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
