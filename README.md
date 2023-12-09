@@ -102,9 +102,11 @@
   </a>
 </div>
 <br>
-<a  align="center" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1" alt="Visit Count">
-</a>
+<div align="center">
+  <a href="https://visitcount.itsvg.in" target="blank">
+    <img src="https://visitcount.itsvg.in/api?id=April-nnma&icon=9&color=1" alt="#" />
+  </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
