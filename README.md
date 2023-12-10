@@ -102,9 +102,9 @@
   </a>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img height= "200" src="https://i.imgflip.com/65efzo.gif"/>
-</div>
+</div> -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
